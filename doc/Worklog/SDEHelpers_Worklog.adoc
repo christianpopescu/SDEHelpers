@@ -1,0 +1,10 @@
+= Work log
+Doc Writer <christian.popescu@outlook.com>
+v 1.0, 2023-01-08
+:sectnums:
+:toc:
+:toclevels: 5
+:pdf-page-size: A3
+
+== 26/01/2023 - Reorganization of an old repository
+
